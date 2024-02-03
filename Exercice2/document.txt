@@ -1,0 +1,6 @@
+Le programme crée une liste nomée "lst1" qui stocke des nombres allant de 1200 à  2000 avec un pas de 135. 
+Il cree ensuite une deuxieme liste nomée "lst2" pair. 
+Il divise par la suite la liste "numbers" en deux, ce qui donne 'o' et 'e'.
+->  o : contient les nombres impairs
+->  e : contient les nombres pairs
+Enfin il affiche ces listes
